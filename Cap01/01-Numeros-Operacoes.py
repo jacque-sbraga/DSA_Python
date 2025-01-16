@@ -9,7 +9,7 @@
 # Soma +
 print(4+4)
 
-# Subtração
+# Subtração -
 print(4-1)
 
 # Multiplicação *
