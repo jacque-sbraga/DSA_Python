@@ -11,7 +11,7 @@ print(s.upper())
 print(s.lower())
 
 # Transforma a string em uma lista com base em um separador
-print(s.split('a'))
+print(s.split(' '))
 
 # Verifica se a string termina com um caractere/string
 print(s.endswith('my'))

@@ -4,14 +4,14 @@ lista_1 = ['arroz', 'feijão', 'leite', 'pão']
 
 numeros = [10000,1254949,1,2]
 # retorna o valor máximo da lista (números)
-print(max(numeros))
+print('max:', max(numeros))
 
 # append - adiciona um novo item no final da  - não verifica se já existe o item na lista
 numeros.append(-4)
 numeros.append(-4)
 
 # count - conta quantas vezes aparece o número na lista
-print(numeros.count(-4))
+print('count:',numeros.count(-4))
 print(numeros)
 
 # Filtrar itens únicos na lista

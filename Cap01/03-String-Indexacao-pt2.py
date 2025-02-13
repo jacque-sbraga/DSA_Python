@@ -28,5 +28,5 @@ print(s[::-1])
 # s[0] = 'X'
 
 # Operador de * repete a string pela quantidade especificada
-letra = 'x' * 3
+letra = 'x' * 4
 print(letra)

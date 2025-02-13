@@ -2,7 +2,7 @@
 var_teste = 1
 
 # Definindo o tipo da variável - type hints
-var_teste: str = 1
+var_teste: str = '1'
 
 # Só pode usar a variável se definir antes
 print(var_teste)

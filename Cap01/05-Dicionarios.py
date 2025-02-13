@@ -14,5 +14,5 @@ print(estudante)
 
 # retorna a quantidade de pares
 print(len(estudante))
-
+print(estudante.items())
 print(list(map(lambda item: list(item),estudante.items())))

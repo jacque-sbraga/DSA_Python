@@ -5,3 +5,6 @@ for i in range(0,10,1):
 
 for i in range(0, -20, -1):
       print(i)
+
+for i in range(11):
+      print(i)

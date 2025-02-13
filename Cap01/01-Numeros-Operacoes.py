@@ -4,7 +4,7 @@
 
 # Funções built-in -> são funções internas do python
 
-# Operações aritméticos
+# Operações aritméticas
 
 # Soma +
 print(4+4)
@@ -57,4 +57,4 @@ print(abs(-8)) # valor absoluto
 
 print(round(9.5448784878, 1)) # retorna o número arredondado de acordo com o número de casas decimais informado
 
-print(pow(2, 2))
+print(pow(4, 2))

@@ -23,6 +23,9 @@ else:
 valor = 0
 while valor < 10:
 
+      # if valor == 2:
+            # continue
+
       if valor == 4:
 
             # para o loop
